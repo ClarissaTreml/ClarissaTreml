@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClarissaTreml
 - 👀 I’m interested in Machine Learning, DevOps and Game Development
-- 🌱 I’m currently learning how to implement an intelligent Agent using ML-Agents from Unity, and Distributed Systems, as well as Deep Learning
+- 🌱 I’m currently implementing an iOS Application
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me clarissa.treml@gmail.com
 
